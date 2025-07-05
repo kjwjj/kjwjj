@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhwjddn89@naver.com)](https://solved.ac/rhwjddn89@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhwjddn89)](https://solved.ac/rhwjddn89/)
 
 <!--
 **kjwjj/kjwjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
