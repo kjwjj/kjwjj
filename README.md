@@ -1,6 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhwjddn89)](https://solved.ac/rhwjddn89/)
 ![kjwjj's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjwjj&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjwjj&layout=Demo&theme=dark)
 <!--
 **kjwjj/kjwjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
